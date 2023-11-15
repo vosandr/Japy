@@ -26,7 +26,8 @@ a==8&print(a)|
 print(c);  
 0==b&print(a)|  
   c&print(b)||  
-1==b&print(a);  
+1==b&print(a);
+a==&[-1];
 (a>0)&&
 {A+5+6;
 2+3}  
