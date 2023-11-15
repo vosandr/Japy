@@ -86,8 +86,8 @@ number, string, array, object.
 ### Переменные:
 var, let, const. js
 
-let abc: number = 34;
-abc[1]==4;
+let abc: number = 34;  
+abc[1]==4;  
 #### Number
 3+4=7;  
 3-2=1;  
