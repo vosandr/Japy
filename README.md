@@ -170,6 +170,9 @@ b,
 Определяться, элемент массива это или объекта будет с помощью запятой или точки с запятой.  
 Также будут json - javascript/string object notation  
 jsan - javascript/string array notation  
+### Указатели. С/С++
+##abd
+@abd - извлечение указателя. 
 
 ### Импорт/Экспорт
 import bs as ds from './abc' - Пользовательские библиотеки  
