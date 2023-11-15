@@ -116,7 +116,7 @@ a+b+a+b+a-' '+b=='A bA bA bAb';
 'ABA'/'CDS'=='ACBDAS';  
 'ABA'/'CDSQ'=='AC!D!SQ'; B в unicode - u+0042. ! - u+0021;  
 'ABA'*'CDSQ' == 'ABACDSQABACDSQABACDSQABACDSQ'; ('ABA'+'CDSQ'*4) Дублирование строк столько раз, сколько букв во втором выражении.  
-'ABABCD'-2=='ABAB'; Альтернатива - 'ABABCD'[:-2]
+'ABABCD'-2=='ABAB';Здесь уже не будет работать +. Альтернатива - 'ABABCD'[:-2]
 let a = 'ABBBaAAcd'
 a-{'aAAcd':'A'}=='ABBBacd';
 a+{'BBB':'A'}=='ABBBAaAAcd';
