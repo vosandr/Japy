@@ -28,6 +28,7 @@ print(c);
   c&print(b)||  
 1==b&print(a);
 a==&[-1];  
+[note1, note2, note3]&.name;
 (a>0)&&
 {A+5+6;
 2+3}  
