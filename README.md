@@ -99,7 +99,7 @@ Mysha(){
 ->abc;
 }
 }
-
+-<<.codes==-<.codes=codes// -<<.codes  
 .Main=>.User{
 =<()
 
